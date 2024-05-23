@@ -1,0 +1,67 @@
+{
+  "puzzle_1": {
+    "description": "Create a word with only one vowel",
+    "condition": "one_vowel"
+  },
+  "puzzle_2": {
+    "description": "Create a word that is exactly 6 letters long",
+    "condition": "length_six"
+  },
+  "puzzle_3": {
+    "description": "Create a word without using the letter A or E",
+    "condition": "no_a_e"
+  },
+  "puzzle_4": {
+    "description": "Create a word that starts with the letter T",
+    "condition": "start_t"
+  },
+  "puzzle_5": {
+    "description": "Create a word that ends with the letter N",
+    "condition": "end_n"
+  },
+  "puzzle_6": {
+    "description": "Create a word with exactly two vowels",
+    "condition": "two_vowels"
+  },
+  "puzzle_7": {
+    "description": "Create a word that contains the letter Z",
+    "condition": "contains_z"
+  },
+  "puzzle_8": {
+    "description": "Create a word that is a palindrome",
+    "condition": "palindrome"
+  },
+  "puzzle_9": {
+    "description": "Create a word that has alternating vowels and consonants",
+    "condition": "alternating_vc"
+  },
+  "puzzle_10": {
+    "description": "Create a word with all consonants",
+    "condition": "all_consonants"
+  },
+  "puzzle_11": {
+    "description": "Create a word with at least three syllables",
+    "condition": "three_syllables"
+  },
+  "puzzle_12": {
+    "description": "Create a word that contains double letters",
+    "condition": "double_letters"
+  },
+  "puzzle_13": {
+    "description": "Create a word with exactly one consonant",
+    "condition": "one_consonant"
+  },
+  "puzzle_14": {
+    "description": "Create a word that is exactly 4 letters long",
+    "condition": "length_four"
+  },
+  "puzzle_15": {
+    "description": "Create a word that contains the letter Q",
+    "condition": "contains_q"
+  },
+  "puzzle_16": {
+    "description": "Create a word that has the same first and last letter",
+    "condition": "same_first_last"
+  }
+}
+
